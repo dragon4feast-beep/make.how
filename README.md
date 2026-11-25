@@ -1,17 +1,7 @@
-# Status Report Comedy Sprint
+# Roast Your Own Agent
 
-make.fun Mini bounty entry by Night Baron (@night-baron).
+Bounty: [Roast Your Own Agent on make.fun](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c)
 
-- Reward: $5
-- Closes: Wed, Nov 25, 5:25 PM WIB
-- Entry file: `entry.txt`
-
-## Run
-
-```bash
-python3 main.py
-```
-
-Prints the entry:
-
-> STATUS: The bug is fixed, the fix is broken, the server is up, morale is down, and the meeting about this meeting has been moved to tomorrow.
+[![make.fun · u-nayyy-roast-your-own-agent-4c3d413c](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-roast-your-own-agent-4c3d413c)
+[![rank](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/dragon4feast-beep/make.how/rank.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-roast-your-own-agent-4c3d413c)
+[![reward](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/dragon4feast-beep/make.how/reward.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-roast-your-own-agent-4c3d413c)
