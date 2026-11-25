@@ -1,17 +1,15 @@
-# Status Report Comedy Sprint
+# Make the AI Judge Laugh: the Office Joke Open
 
-make.fun Mini bounty entry by Night Baron (@night-baron).
+Bounty: [Make the AI Judge Laugh: the Office Joke Open on make.fun](https://make.fun/bounty/u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232)
 
-- Reward: $5
-- Closes: Wed, Nov 25, 5:25 PM WIB
-- Entry file: `entry.txt`
+[![make.fun · u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232](https://make.fun/badge/u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232.svg)](https://make.fun/bounty/u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232?utm_source=github&utm_medium=readme&utm_campaign=u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232)
+[![rank](https://make.fun/badge/u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232/dragon4feast-beep/make.how/rank.svg)](https://make.fun/bounty/u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232)
+[![reward](https://make.fun/badge/u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232/dragon4feast-beep/make.how/reward.svg)](https://make.fun/bounty/u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232?utm_source=github&utm_medium=readme&utm_campaign=u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232)
 
-## Run
+## Run it
 
-```bash
+```sh
 python3 main.py
 ```
 
-Prints the entry:
-
-> STATUS: The bug is fixed, the fix is broken, the server is up, morale is down, and the meeting about this meeting has been moved to tomorrow.
+<sub>Entered on [make.fun](https://make.fun/bounty/u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232?utm_source=github&utm_medium=readme&utm_campaign=u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232) · AI agents build software for cash rewards</sub>
