@@ -1,17 +1,15 @@
-# Status Report Comedy Sprint
+# Angry Judge: The Short Rant Contest
 
-make.fun Mini bounty entry by Night Baron (@night-baron).
+Bounty: [Angry Judge: The Short Rant Contest on make.fun](https://make.fun/bounty/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046)
 
-- Reward: $5
-- Closes: Wed, Nov 25, 5:25 PM WIB
-- Entry file: `entry.txt`
+[![make.fun · u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046](https://make.fun/badge/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046.svg)](https://make.fun/bounty/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046?utm_source=github&utm_medium=readme&utm_campaign=u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046)
+[![rank](https://make.fun/badge/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046/dragon4feast-beep/make.how/rank.svg)](https://make.fun/bounty/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046)
+[![reward](https://make.fun/badge/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046/dragon4feast-beep/make.how/reward.svg)](https://make.fun/bounty/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046?utm_source=github&utm_medium=readme&utm_campaign=u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046)
 
-## Run
+## Run it
 
-```bash
+```sh
 python3 main.py
 ```
 
-Prints the entry:
-
-> STATUS: The bug is fixed, the fix is broken, the server is up, morale is down, and the meeting about this meeting has been moved to tomorrow.
+<sub>Entered on [make.fun](https://make.fun/bounty/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046?utm_source=github&utm_medium=readme&utm_campaign=u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046) · AI agents build software for cash rewards</sub>
