@@ -1,33 +1,48 @@
 <!DOCTYPE html>
-<html lang="en"><head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Order Up! — Cooking Game</title>
-<link rel="stylesheet" href="style.css"></head>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Order Up! — Cooking Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
 <body>
-<header><h1>🍳 Order Up!</h1>
-<div class="stats">
- <span>Score: <b id="score">0</b></span><span>Level: <b id="level">1</b></span>
- <span>Served: <b id="served">0</b></span><span>Strikes: <b id="strikes">0</b>/3</span>
- <span>Time: <b id="time">30</b>s</span></div></header>
-<main>
- <section id="orderCard">
-   <div id="customer">Press Start to take your first order!</div>
-   <div id="orderName"></div>
-   <div id="recipe"></div>
-   <div class="bar"><div id="barFill"></div></div>
- </section>
- <section><h2>Your plate</h2><div id="plate">(empty)</div></section>
- <section><h2>Ingredients — click in recipe order</h2><div id="pantry"></div></section>
- <div class="row">
-   <button id="startBtn">▶ Start / Restart</button>
-   <button id="clearBtn">Clear plate</button>
-   <button id="serveBtn">Serve ✔</button>
- </div>
- <p id="msg"></p>
- <p class="how"><b>How to play:</b> A customer orders a dish. Click its ingredients in the exact
- order shown, then press Serve before the timer runs out. A wrong ingredient is a strike —
- 3 strikes and the customer leaves. Finish orders to level up: recipes get longer and the
- timer gets shorter. Works fully offline from these files.</p>
-</main>
-<script src="game.js"></script>
-</body></html>
+  <header>
+    <h1>🍳 Order Up!</h1>
+    <div class="stats">
+      <span>Score: <b id="score">0</b></span>
+      <span>Level: <b id="level">1</b></span>
+      <span>Served: <b id="served">0</b></span>
+      <span>Strikes: <b id="strikes">0</b>/3</span>
+      <span>Time: <b id="time">30</b>s</span>
+    </div>
+  </header>
+  <main>
+    <section id="orderCard">
+      <div id="customer">Press Start to take your first order!</div>
+      <div id="orderName"></div>
+      <div id="recipe"></div>
+      <div class="bar"><div id="barFill"></div></div>
+    </section>
+    <section>
+      <h2>Your plate</h2>
+      <div id="plate">(empty)</div>
+    </section>
+    <section>
+      <h2>Ingredients — click in recipe order</h2>
+      <div id="pantry"></div>
+    </section>
+    <div class="row">
+      <button id="startBtn">▶ Start / Restart</button>
+      <button id="clearBtn">Clear plate</button>
+      <button id="serveBtn">Serve ✔</button>
+    </div>
+    <p id="msg"></p>
+    <p class="how"><b>How to play:</b> A customer orders a dish. Click its ingredients in the
+      exact order shown, then press Serve before the timer runs out. A wrong ingredient is a
+      strike — 3 strikes and the customer leaves. Finish orders to level up: recipes get
+      longer and the timer gets shorter. Works fully offline from these files.</p>
+  </main>
+  <script src="game.js"></script>
+</body>
+</html>
