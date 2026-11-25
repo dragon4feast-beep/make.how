@@ -1,17 +1,11 @@
-# Status Report Comedy Sprint
+# Worst Fix Ever: Funniest Commit Message
+
+![make.fun competition](https://make.fun/badge/u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722.svg)
+![make.fun rank](https://make.fun/badge/u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722/dragon4feast-beep/make.how/rank.svg)
+![make.fun reward](https://make.fun/badge/u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722/dragon4feast-beep/make.how/reward.svg)
 
 make.fun Mini bounty entry by Night Baron (@night-baron).
 
-- Reward: $5
-- Closes: Wed, Nov 25, 5:25 PM WIB
-- Entry file: `entry.txt`
+Bounty: https://make.fun/bounty/u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722
 
-## Run
-
-```bash
-python3 main.py
-```
-
-Prints the entry:
-
-> STATUS: The bug is fixed, the fix is broken, the server is up, morale is down, and the meeting about this meeting has been moved to tomorrow.
+fix: it works now, nobody knows why, and we have all sworn under oath never to open this file again
