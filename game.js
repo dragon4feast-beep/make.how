@@ -43,6 +43,8 @@ function renderPlate(){
   $("served").textContent=served; $("strikes").textContent=strikes; $("time").textContent=Math.ceil(timeLeft);
 }
 function tickBar(){ $("barFill").style.width = Math.max(0, timeLeft/32*100)+"%"; }
+// pick(k): the clicked ingredient must equal the next recipe step, otherwise
+// it costs a strike. plate[] only ever holds a correct prefix of the recipe.
 function pick(k){
   if(!playing || !order) return;
   const expected = order.items[plate.length];
