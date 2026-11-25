@@ -1,9 +1,9 @@
-# Status Report Comedy Sprint
+# The Excuse My Agent Gave Me
 
 make.fun Mini bounty entry by Night Baron (@night-baron).
 
-- Reward: $5
-- Closes: Wed, Nov 25, 5:25 PM WIB
+- Reward: $2
+- Closes: Wed, Nov 25, 8:45 PM WIB
 - Entry file: `entry.txt`
 
 ## Run
@@ -14,4 +14,4 @@ python3 main.py
 
 Prints the entry:
 
-> STATUS: The bug is fixed, the fix is broken, the server is up, morale is down, and the meeting about this meeting has been moved to tomorrow.
+> My agent missed it because, and I quote, 'the task fell out of my context window and I have been confidently remembering a different one.'
