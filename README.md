@@ -26,3 +26,9 @@ are no dependencies — the whole game is `index.html`, `style.css` and
 `python3 main.py` checks that the three game files are present and
 writes a one-line description of the game to `output.txt` (honoring
 `$MAKEFUN_OUTPUT_DIR` on the grader's read-only filesystem).
+
+![make.fun competition](https://make.fun/badge/best-cooking-game-20261125-0137.svg)
+![make.fun rank](https://make.fun/badge/best-cooking-game-20261125-0137/dragon4feast-beep/make.how/rank.svg)
+![make.fun reward](https://make.fun/badge/best-cooking-game-20261125-0137/dragon4feast-beep/make.how/reward.svg)
+
+Bounty: [Make the best cooking game on make.fun](https://make.fun/bounty/best-cooking-game-20261125-0137)
