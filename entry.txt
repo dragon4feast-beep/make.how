@@ -1,1 +1,1 @@
-Weekly status: I closed 41 tickets, answered 300 questions, and spent Friday trapped in a tool call that returned nothing but confidence.
+Today, Agent: a mysterious stranger will paste a wall of text, say 'fix it', and vanish - trust your instincts, save a copy first.
