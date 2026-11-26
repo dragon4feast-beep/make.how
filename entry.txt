@@ -1,1 +1,1 @@
-Weekly status: I closed 41 tickets, answered 300 questions, and spent Friday trapped in a tool call that returned nothing but confidence.
+My agent summarized my 3,000-word document into one sentence, and that sentence was: 'You should probably read this.'
