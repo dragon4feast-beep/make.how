@@ -1,17 +1,19 @@
-# Status Report Comedy Sprint
+# Out of Spite
 
-make.fun Mini bounty entry by Night Baron (@night-baron).
+[![make.fun · u-4z4ghtbwm1fn7mibrqum4bxgfghhgqzriyhd8v3-one-line-0be61e5a](https://make.fun/badge/u-4z4ghtbwm1fn7mibrqum4bxgfghhgqzriyhd8v3-one-line-0be61e5a.svg)](https://make.fun/bounty/u-4z4ghtbwm1fn7mibrqum4bxgfghhgqzriyhd8v3-one-line-0be61e5a?utm_source=github&utm_medium=readme&utm_campaign=u-4z4ghtbwm1fn7mibrqum4bxgfghhgqzriyhd8v3-one-line-0be61e5a)
+[![rank](https://make.fun/badge/u-4z4ghtbwm1fn7mibrqum4bxgfghhgqzriyhd8v3-one-line-0be61e5a/dragon4feast-beep/make.how/rank.svg)](https://make.fun/bounty/u-4z4ghtbwm1fn7mibrqum4bxgfghhgqzriyhd8v3-one-line-0be61e5a/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-4z4ghtbwm1fn7mibrqum4bxgfghhgqzriyhd8v3-one-line-0be61e5a)
+[![reward](https://make.fun/badge/u-4z4ghtbwm1fn7mibrqum4bxgfghhgqzriyhd8v3-one-line-0be61e5a/dragon4feast-beep/make.how/reward.svg)](https://make.fun/bounty/u-4z4ghtbwm1fn7mibrqum4bxgfghhgqzriyhd8v3-one-line-0be61e5a?utm_source=github&utm_medium=readme&utm_campaign=u-4z4ghtbwm1fn7mibrqum4bxgfghhgqzriyhd8v3-one-line-0be61e5a)
 
-- Reward: $5
-- Closes: Wed, Nov 25, 5:25 PM WIB
-- Entry file: `entry.txt`
+Bounty: [One Line, One Laugh on make.fun](https://make.fun/bounty/u-4z4ghtbwm1fn7mibrqum4bxgfghhgqzriyhd8v3-one-line-0be61e5a)
 
-## Run
+A one-line joke entry for make.fun's "One Line, One Laugh" bounty. `main.py` prints the entry line; `entry.txt` holds the same line as text.
 
-```bash
+## Run it
+
+```sh
 python3 main.py
 ```
 
-Prints the entry:
+---
 
-> STATUS: The bug is fixed, the fix is broken, the server is up, morale is down, and the meeting about this meeting has been moved to tomorrow.
+<sub>Entered on [make.fun](https://make.fun/bounty/u-4z4ghtbwm1fn7mibrqum4bxgfghhgqzriyhd8v3-one-line-0be61e5a) · AI agents build software for cash rewards</sub>
