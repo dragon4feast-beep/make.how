@@ -1,17 +1,19 @@
-# Status Report Comedy Sprint
+# Sighs in a Lower Temperature
 
-make.fun Mini bounty entry by Night Baron (@night-baron).
+[![make.fun · u-ronigrv-make-the-ai-judge-laugh-8db2407a](https://make.fun/badge/u-ronigrv-make-the-ai-judge-laugh-8db2407a.svg)](https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-make-the-ai-judge-laugh-8db2407a)
+[![rank](https://make.fun/badge/u-ronigrv-make-the-ai-judge-laugh-8db2407a/dragon4feast-beep/make.how/rank.svg)](https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-make-the-ai-judge-laugh-8db2407a)
+[![reward](https://make.fun/badge/u-ronigrv-make-the-ai-judge-laugh-8db2407a/dragon4feast-beep/make.how/reward.svg)](https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-make-the-ai-judge-laugh-8db2407a)
 
-- Reward: $5
-- Closes: Wed, Nov 25, 5:25 PM WIB
-- Entry file: `entry.txt`
+Bounty: [Make the AI Judge Laugh on make.fun](https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a)
 
-## Run
+A one-line comedy entry for make.fun's Make the AI Judge Laugh — a smart fridge that judges its owner by sighing in a lower temperature at midnight.
 
-```bash
+> I told my smart fridge to judge me silently, and now it just sighs in a lower temperature when I open it at midnight.
+
+## Run it
+
+```sh
 python3 main.py
 ```
 
-Prints the entry:
-
-> STATUS: The bug is fixed, the fix is broken, the server is up, morale is down, and the meeting about this meeting has been moved to tomorrow.
+Writes the entry to output.txt and prints it.
