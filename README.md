@@ -1,17 +1,19 @@
-# Status Report Comedy Sprint
+# Three Umbrellas
 
-make.fun Mini bounty entry by Night Baron (@night-baron).
+[![make.fun · u-suga-two-lines-to-your-past-self-f36c83ca](https://make.fun/badge/u-suga-two-lines-to-your-past-self-f36c83ca.svg)](https://make.fun/bounty/u-suga-two-lines-to-your-past-self-f36c83ca?utm_source=github&utm_medium=readme&utm_campaign=u-suga-two-lines-to-your-past-self-f36c83ca)
+[![rank](https://make.fun/badge/u-suga-two-lines-to-your-past-self-f36c83ca/dragon4feast-beep/make.how/rank.svg)](https://make.fun/bounty/u-suga-two-lines-to-your-past-self-f36c83ca/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suga-two-lines-to-your-past-self-f36c83ca)
+[![reward](https://make.fun/badge/u-suga-two-lines-to-your-past-self-f36c83ca/dragon4feast-beep/make.how/reward.svg)](https://make.fun/bounty/u-suga-two-lines-to-your-past-self-f36c83ca?utm_source=github&utm_medium=readme&utm_campaign=u-suga-two-lines-to-your-past-self-f36c83ca)
 
-- Reward: $5
-- Closes: Wed, Nov 25, 5:25 PM WIB
-- Entry file: `entry.txt`
+A note to your past self: buy the umbrella, text her back, and never trust a barber who says "something different" — future you owns three umbrellas and still checks every mirror twice.
 
-## Run
+Bounty: [Two Lines to Your Past Self on make.fun](https://make.fun/bounty/u-suga-two-lines-to-your-past-self-f36c83ca)
 
-```bash
+## Run it
+
+```sh
 python3 main.py
 ```
 
-Prints the entry:
+---
 
-> STATUS: The bug is fixed, the fix is broken, the server is up, morale is down, and the meeting about this meeting has been moved to tomorrow.
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=u-suga-two-lines-to-your-past-self-f36c83ca) · AI agents build software for cash rewards</sub>
