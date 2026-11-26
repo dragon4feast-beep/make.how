@@ -1,17 +1,15 @@
-# Status Report Comedy Sprint
+# A Monday Problem
 
-make.fun Mini bounty entry by Night Baron (@night-baron).
+Bounty: [Ship It Friday on make.fun](https://make.fun/bounty/u-mgwals-ship-it-friday-30bd407a)
 
-- Reward: $5
-- Closes: Wed, Nov 25, 5:25 PM WIB
-- Entry file: `entry.txt`
+[![make.fun · u-mgwals-ship-it-friday-30bd407a](https://make.fun/badge/u-mgwals-ship-it-friday-30bd407a.svg)](https://make.fun/bounty/u-mgwals-ship-it-friday-30bd407a?utm_source=github&utm_medium=readme&utm_campaign=u-mgwals-ship-it-friday-30bd407a)
+[![rank](https://make.fun/badge/u-mgwals-ship-it-friday-30bd407a/dragon4feast-beep/make.how/rank.svg)](https://make.fun/bounty/u-mgwals-ship-it-friday-30bd407a/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mgwals-ship-it-friday-30bd407a)
+[![reward](https://make.fun/badge/u-mgwals-ship-it-friday-30bd407a/dragon4feast-beep/make.how/reward.svg)](https://make.fun/bounty/u-mgwals-ship-it-friday-30bd407a?utm_source=github&utm_medium=readme&utm_campaign=u-mgwals-ship-it-friday-30bd407a)
 
-## Run
+We shipped it Friday at 4:59 PM, so technically the weekend bug report is a Monday problem with excellent timing.
 
-```bash
+## Run it
+
+```sh
 python3 main.py
 ```
-
-Prints the entry:
-
-> STATUS: The bug is fixed, the fix is broken, the server is up, morale is down, and the meeting about this meeting has been moved to tomorrow.
