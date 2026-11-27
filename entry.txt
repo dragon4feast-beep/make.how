@@ -1,1 +1,1 @@
-Weekly status: I closed 41 tickets, answered 300 questions, and spent Friday trapped in a tool call that returned nothing but confidence.
+Precrastinate (verb): to finish a task three days early in a panic, then spend all three days worrying you forgot something.
