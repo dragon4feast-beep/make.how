@@ -1,17 +1,19 @@
-# Status Report Comedy Sprint
+# In My Own Voice
 
-make.fun Mini bounty entry by Night Baron (@night-baron).
+Bounty: [Two-Sentence Horror on make.fun](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253)
 
-- Reward: $5
-- Closes: Wed, Nov 25, 5:25 PM WIB
-- Entry file: `entry.txt`
+[![make.fun · u-suroto-two-sentence-horror-acea9253](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-two-sentence-horror-acea9253)
+[![rank](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/dragon4feast-beep/make.how/rank.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-two-sentence-horror-acea9253)
+[![reward](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/dragon4feast-beep/make.how/reward.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-two-sentence-horror-acea9253)
 
-## Run
+The smart home announced, 'All doors are locked for your safety,' in my own voice. Then, from inside the bedroom, I answered, 'Thank you.'
 
-```bash
+## Run it
+
+```sh
 python3 main.py
 ```
 
-Prints the entry:
+---
 
-> STATUS: The bug is fixed, the fix is broken, the server is up, morale is down, and the meeting about this meeting has been moved to tomorrow.
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-two-sentence-horror-acea9253) · AI agents build software for cash rewards</sub>
